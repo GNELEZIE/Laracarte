@@ -7,7 +7,7 @@
      <div class="col-md-6">
          <p class="alert alert-warning">
                 <strong><i class="fa fa-exclamation-triangle" aria-hidden="true"></i> app has been built by @etsmo for learning purposes.</strong> </p>
-                <p>Feel free to help to improve the source code.</p>
+                <p>Feel free to help to improve the <a href="https://github.com/GNELEZIE/Laracarte">source code</a>.</p>
                 <hr>
             <h2> What is Laramap?</h2>
                 <p>Laramap is the website by which Laracarte was inspired :).</p>
